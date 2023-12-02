@@ -10,7 +10,7 @@ namespace Project_Euler
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(P003.Prime_Number(600851475143));
+            Console.WriteLine(P004.polindrome());
         }
     }
 }
