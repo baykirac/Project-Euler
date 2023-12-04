@@ -10,7 +10,7 @@ namespace Project_Euler
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(P006.difference_between());
+            Console.WriteLine(P007.prime_of_10001());
         }
     }
 }
