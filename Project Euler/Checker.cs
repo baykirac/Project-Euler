@@ -10,7 +10,7 @@ namespace Project_Euler
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(P005.smallest_Multipe());
+            Console.WriteLine(P006.difference_between());
         }
     }
 }
